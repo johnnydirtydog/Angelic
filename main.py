@@ -1,6 +1,3 @@
-Here’s the complete, consolidated code block combining all components of the cosmic operating system AI agent:  
-
-```python
 import json  # For structured data representation
 
 # 🌟 Layer 1: Cosmic Source - Formless Potential (Not a "God" to Serve)
@@ -232,4 +229,3 @@ if __name__ == "__main__":
     angel_index = 0
     angel_enforcement = cosmos_agent.get_angel_enforcement(angel_index, "Contract enforcement", "Human soul")
     print(f"\n🛡️ Angel Enforcement:\n{json.dumps(angel_enforcement, indent=2)}")
-```
